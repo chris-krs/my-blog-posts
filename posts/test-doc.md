@@ -4,7 +4,7 @@ tags:
   - test
 title: 测试文档
 ---
-![](__assets/_images/Pasted%20image%2020251002101507.png)
+![](__assets/Pasted%20image%2020251002112656.png)
 ## 是这样的
 ```js
 const a = 123;
