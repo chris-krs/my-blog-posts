@@ -4,10 +4,6 @@ tags:
   - test
 title: 测试文档
 ---
-![](__assets/file-20251002114548285.png)
-## 是这样的
-```js
-const a = 123;
-```
-啊..
-![](__assets/file-20251002114535006.png)
+测试一下图片
+## 下面是图片
+![](https://haruu.fun/picgo/avatar.png)
